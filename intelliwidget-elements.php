@@ -7,7 +7,7 @@
 Plugin Name: IntelliWidget Elements Post Type
 Plugin URI: http://www.lilaeamedia.com/plugins/intelliwidget-elements
 Description: Adds generic non-searchable post type to be used for content areas
-Author: Lilaea Media LLC
+Author: Lilaea Media
 Version: 1.0.0
 Author URI: http://www.lilaeamedia.com
 */
