@@ -1,5 +1,5 @@
 === IntelliWidget Elements Post Type ===
-Contributors: Jason Fleming
+Contributors: lilaeamedia 
 Tags: intelliwidget, post type
 Requires at least: 3.5
 Tested up to: 3.6.1
